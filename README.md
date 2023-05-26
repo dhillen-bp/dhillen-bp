@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhillen Brahmantya Pradifta</h1>
-<h3 align="center">Currently studying web development</h3>
+<h3 align="center">Interested in Web Development</h3>
 
 - 🌱 I’m currently learning **Web Development**
 
