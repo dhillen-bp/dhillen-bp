@@ -27,6 +27,6 @@
     <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 </p> -->
 
-<p><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dhillen-bp&show_icons=true&locale=en&layout=compact&count_private=true&theme=tokyonight" alt="dhillen-bp" /></p>
+<p><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dhillen-bp&show_icons=true&locale=en&layout=compact&count_private=true&theme=tokyonight"/></p>
 
 <p>&nbsp;<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dhillen-bp&layout=compact&langs_count=8&theme=tokyonight"/></p>
