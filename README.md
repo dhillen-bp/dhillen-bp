@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhillen Brahmantya Pradifta</h1>
-<h3 align="center">Interested in Web Development</h3>
+<h3 align="center">About Me</h3>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Web Development** and **Cloud Computing**
 
 - 📫 How to reach me **dhillenbp20@gmail.com**
 
